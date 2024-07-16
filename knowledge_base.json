@@ -1,0 +1,156 @@
+{
+    "questions": [
+        {
+            "question": "What is Python?",
+            "answer": "Python is a high-level, interpreted programming language known for its readability and versatility."
+        },
+        {
+            "question": "Who developed Python?",
+            "answer": "Python was developed by Guido van Rossum and was first released in 1991."
+        },
+        {
+            "question": "What is a function in Python?",
+            "answer": "A function in Python is a block of reusable code that performs a specific task."
+        },
+        {
+            "question": "How do you define a function in Python?",
+            "answer": "You define a function in Python using the 'def' keyword followed by the function name and parentheses."
+        },
+        {
+            "question": "What is a list in Python?",
+            "answer": "A list in Python is a collection of items that are ordered and changeable."
+        },
+        {
+            "question": "How do you create a list in Python?",
+            "answer": "You create a list in Python by placing comma-separated values inside square brackets, like this: my_list = [1, 2, 3, 4]."
+        },
+        {
+            "question": "What is a dictionary in Python?",
+            "answer": "A dictionary in Python is a collection of key-value pairs that is unordered, changeable, and indexed."
+        },
+        {
+            "question": "How do you create a dictionary in Python?",
+            "answer": "You create a dictionary in Python by placing comma-separated key-value pairs inside curly braces, like this: my_dict = {'key1': 'value1', 'key2': 'value2'}."
+        },
+        {
+            "question": "What is a for loop in Python?",
+            "answer": "A for loop in Python is used to iterate over a sequence (like a list, tuple, dictionary, set, or string) with the for keyword."
+        },
+        {
+            "question": "How do you write a for loop in Python?",
+            "answer": "You write a for loop in Python using the 'for' keyword followed by a variable name and the 'in' keyword, then the sequence you want to iterate over. Example: for item in my_list: print(item)."
+        },
+        {
+            "question": "What is a while loop in Python?",
+            "answer": "A while loop in Python repeatedly executes a block of code as long as a specified condition is true."
+        },
+        {
+            "question": "How do you write a while loop in Python?",
+            "answer": "You write a while loop in Python using the 'while' keyword followed by a condition. Example: while condition: execute_code."
+        },
+        {
+            "question": "What is an if statement in Python?",
+            "answer": "An if statement in Python is used to execute a block of code only if a specified condition is true."
+        },
+        {
+            "question": "How do you write an if statement in Python?",
+            "answer": "You write an if statement in Python using the 'if' keyword followed by a condition. Example: if condition: execute_code."
+        },
+        {
+            "question": "What is a class in Python?",
+            "answer": "A class in Python is a blueprint for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods)."
+        },
+        {
+            "question": "How do you define a class in Python?",
+            "answer": "You define a class in Python using the 'class' keyword followed by the class name and a colon. Example: class MyClass: pass."
+        },
+        {
+            "question": "What is inheritance in Python?",
+            "answer": "Inheritance in Python is a feature that allows a class to inherit the attributes and methods of another class."
+        },
+        {
+            "question": "How do you implement inheritance in Python?",
+            "answer": "You implement inheritance in Python by defining a new class that takes another class as its base class. Example: class ChildClass(ParentClass): pass."
+        },
+        {
+            "question": "What is a module in Python?",
+            "answer": "A module in Python is a file containing Python definitions and statements that can be imported and used in other Python programs."
+        },
+        {
+            "question": "How do you import a module in Python?",
+            "answer": "You import a module in Python using the 'import' keyword followed by the module name. Example: import math."
+        },
+        {
+            "question": "What is an exception in Python?",
+            "answer": "An exception in Python is an error that occurs during the execution of a program, disrupting the normal flow of the program's instructions."
+        },
+        {
+            "question": "How do you handle exceptions in Python?",
+            "answer": "You handle exceptions in Python using the 'try' and 'except' keywords. Example: try: execute_code except Exception as e: handle_exception."
+        },
+        {
+            "question": "What is NumPy?",
+            "answer": "NumPy is a Python library used for working with arrays. It also has functions for working in the domain of linear algebra, fourier transform, and matrices."
+        },
+        {
+            "question": "How do you install NumPy?",
+            "answer": "You install NumPy using the pip package manager. Example: pip install numpy."
+        },
+        {
+            "question": "What is Pandas?",
+            "answer": "Pandas is a Python library used for data manipulation and analysis. It offers data structures and operations for manipulating numerical tables and time series."
+        },
+        {
+            "question": "How do you install Pandas?",
+            "answer": "You install Pandas using the pip package manager. Example: pip install pandas."
+        },
+        {
+            "question": "What is Matplotlib?",
+            "answer": "Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy."
+        },
+        {
+            "question": "How do you install Matplotlib?",
+            "answer": "You install Matplotlib using the pip package manager. Example: pip install matplotlib."
+        },
+        {
+            "question": "What is scikit-learn?",
+            "answer": "Scikit-learn is a Python library for machine learning that provides simple and efficient tools for data analysis and modeling."
+        },
+        {
+            "question": "How do you install scikit-learn?",
+            "answer": "You install scikit-learn using the pip package manager. Example: pip install scikit-learn."
+        },
+        {
+            "question": "What is SQL?",
+            "answer": "SQL (Structured Query Language) is a standard programming language for managing and manipulating databases."
+        },
+        {
+            "question": "What are some common SQL commands?",
+            "answer": "Some common SQL commands are SELECT, INSERT, UPDATE, DELETE, CREATE, and DROP."
+        },
+        {
+            "question": "What is a database?",
+            "answer": "A database is an organized collection of data, generally stored and accessed electronically from a computer system."
+        },
+        {
+            "question": "What is a primary key in SQL?",
+            "answer": "A primary key is a unique identifier for a record in a database table."
+        },
+        {
+            "question": "What is a foreign key in SQL?",
+            "answer": "A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table."
+        },
+        {
+            "question": "What is an index in SQL?",
+            "answer": "An index is a database object that improves the speed of data retrieval operations on a database table."
+        },
+        {
+            "question": "What is normalization in databases?",
+            "answer": "Normalization is the process of organizing the fields and tables of a relational database to minimize redundancy and dependency."
+        },
+        {
+            "question": "What is denormalization in databases?",
+            "answer": "Denormalization is the process of introducing redundancy into a database design to improve read performance."
+        }
+    ]
+}
